@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "game-witcher",
+      "title": "Wiedźmin 3",
+      "body": "Wiedźmin 3: Dziki Gon to gra RPG wydana w 2015 roku przez CD Projekt RED. Gracz wciela się w Geralta z Rivii."
+    },
+    {
+      "id": "game-fortnite",
+      "title": "Fortnite",
+      "body": "Fortnite to popularna gra battle royale. Rozgrywka polega na walce 100 graczy na jednej mapie aż do wyłonienia zwycięzcy."
+    },
+    {
+      "id": "stock-etf",
+      "title": "ETF",
+      "body": "ETF to fundusz inwestycyjny notowany na giełdzie, który odwzorowuje wybrany indeks, np. S&P 500."
+    },
+    {
+      "id": "stock-dividend",
+      "title": "Akcje dywidendowe",
+      "body": "Akcje dywidendowe to papiery wartościowe, które regularnie wypłacają część zysku spółki inwestorom."
+    },
+    {
+      "id": "sport-boxing",
+      "title": "Boks",
+      "body": "Boks to sport walki, w którym dwóch zawodników walczy przy użyciu pięści w specjalnych rękawicach i według ustalonych zasad."
+    },
+    {
+      "id": "sport-gym",
+      "title": "Siłownia",
+      "body": "Trening siłowy na siłowni poprawia siłę, masę mięśniową i kondycję. Popularne ćwiczenia to przysiady, martwy ciąg i wyciskanie."
+    }
+  ]
+}

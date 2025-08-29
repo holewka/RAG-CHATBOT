@@ -1,0 +1,27 @@
+# ---- PYTHON ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# ---- VIRTUAL ENV ----
+venv/
+.env
+.env.*
+
+# ---- LOGS / TEMP ----
+*.log
+*.tmp
+*.bak
+
+# ---- OS FILES ----
+.DS_Store
+Thumbs.db
+
+# ---- DATA (opcjonalnie) ----
+# Możesz odkomentować, jeśli nie chcesz wrzucać plików demo
+# data/*.pdf
+# data/*.docx
+# data/*.csv
+# data/*.txt
